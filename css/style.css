@@ -6,3 +6,15 @@
 h1{
     text-align: center;
 }
+.container{
+    text-align:center;
+}
+.container input{
+    margin: 0 auto;
+    text-align: center;
+
+}
+.container-dbResults h2{
+    text-align: center;
+}
+
